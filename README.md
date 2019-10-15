@@ -22,7 +22,7 @@ De esta manera se puede acceder a las siguientes funciones vía URL:
 label = p1, x = 1, y = 2, z = 3
 
 
-[https://3d.watermarkero.com/puntos/add/p1/1/1/2](https://3d.watermarkero.com/puntos/add/p1/1/2/3)
+[https://3d.watermarkero.com/puntos/add/p1/1/2/3](https://3d.watermarkero.com/puntos/add/p1/1/2/3)
 
 3. Eliminar todos los puntos
 
