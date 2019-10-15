@@ -5,7 +5,7 @@ Modificar base_url en  application/config/config.php:
 
     $config['base_url'] = '';
 
-con el valor del url en dónde estará hospedado ek código fuente:
+con el valor del url en dónde estará hospedado el código fuente:
 
 Ej:
 
